@@ -1,2 +1,5 @@
-# baidutieba-forumclass
-baidutieba-forumclass
+# 百度贴吧数据
+
+这是通过爬虫获得的百度贴吧名称列表。目前只整理了贴吧名称。
+
+贴吧列表参见`list.csv`。`storage`内是爬虫爬到的贴吧分类数据。
